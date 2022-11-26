@@ -23,7 +23,7 @@ las mismas son de alto nivel de seguridad.
 
 Password Generator require [Python](https://www.python.org/) v3.10.0+ corre.
 
-Instale las dependencias.
+Instale las dependencias:
 
  | [Pyperclip](https://pypi.org/project/pyperclip/) |
 | [Módulo random](https://docs.python.org/es/3/library/random.html?highlight=random#module-random) |
