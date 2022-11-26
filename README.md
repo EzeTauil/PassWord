@@ -37,8 +37,9 @@ Instale las dependencias.
 
 > Al ejecutar el programa automaticamente se verá reflejado en la Terminal las opciones para generar la contraseña según el nivel de seguridad deseado,("LOW","MIDDLE","HIGH") una vez escriba una de esas opciones el programa arrojará una contraseña según la opción elegida.
 Adjunto de imagenes :
+
 |
-!![Captura de pantalla (7)](https://user-images.githubusercontent.com/118028611/204072204-9eb96eed-f3c0-409c-be2e-988938b0ec63.png)
+![Captura de pantalla (7)](https://user-images.githubusercontent.com/118028611/204072204-9eb96eed-f3c0-409c-be2e-988938b0ec63.png)
 |
 ![Captura de pantalla (8)](https://user-images.githubusercontent.com/118028611/204072221-5e8f840d-90ee-4d9f-b492-41f7f50fbdd5.png) |
 
