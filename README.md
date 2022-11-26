@@ -11,16 +11,13 @@ las mismas son de alto nivel de seguridad.
 
 # Tecnologias usadas
 
-- Tkinter
+- Pyperclip
 - Python
 
  ## Módulos
-- Importar Tkinter para tener una consola gráfica
+- Importar Pyperclip 
 - Importar random 
 
-
- Password Generator  es de código abierto con un [public repository][dill]
- on GitHub.
 
 ## Instalación
 
@@ -28,7 +25,7 @@ Password Generator require [Python](https://www.python.org/) v3.10.0+ corre.
 
 Instale las dependencias.
 
- | [Tkinter](https://docs.python.org/es/3/library/tkinter.html#tkinter-modules) |
+ | [Pyperclip](https://pypi.org/project/pyperclip/) |
 | [Módulo random](https://docs.python.org/es/3/library/random.html?highlight=random#module-random) |
 
 
