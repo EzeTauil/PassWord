@@ -1,5 +1,5 @@
 # Password
-## _Generador de Contraseñas con Interfaz Gráfica_
+## _Generador de Contraseñas_
 
  ![Badge en Desarollo](https://img.shields.io/badge/Creaci%C3%B3n-17--11--22-brightgreen) ![Badge en Desarollo](https://img.shields.io/badge/C%C3%B3digo%20-EN%20DESARROLLO-yellow) ![Badge en Desarollo](https://img.shields.io/badge/PassWord--Generator-v1.0-blue)
 
