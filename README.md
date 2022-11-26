@@ -29,8 +29,8 @@ Password Generator require [Python](https://www.python.org/) v3.10.0+ corre.
 
 Instale las dependencias.
 
- [Tkinter](https://docs.python.org/es/3/library/tkinter.html#tkinter-modules) 
- [Módulo random](https://docs.python.org/es/3/library/random.html?highlight=random#module-random)
+ | [Tkinter](https://docs.python.org/es/3/library/tkinter.html#tkinter-modules) |
+| [Módulo random](https://docs.python.org/es/3/library/random.html?highlight=random#module-random) |
 
 
 ### Funcionamiento del programa
