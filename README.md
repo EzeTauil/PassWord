@@ -3,7 +3,7 @@
 
  ![Badge en Desarollo](https://img.shields.io/badge/Creaci%C3%B3n-17--11--22-brightgreen) ![Badge en Desarollo](https://img.shields.io/badge/C%C3%B3digo%20-EN%20DESARROLLO-yellow) ![Badge en Desarollo](https://img.shields.io/badge/PassWord--Generator-v1.0-blue)
 
->> Password generator, es como bien dice su nombre un generador de contraseñas, 
+> Password generator, es como bien dice su nombre un generador de contraseñas, 
 las mismas son de alto nivel de seguridad.
 
 ## Sistemas operativos en los que se puede ejecutar:
