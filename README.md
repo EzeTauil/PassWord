@@ -1,1 +1,45 @@
-# PassWord
+# Password
+## _Generador de Contraseñas con Interfaz Gráfica_
+
+ ![Badge en Desarollo](https://img.shields.io/badge/Creaci%C3%B3n-17--11--22-brightgreen) ![Badge en Desarollo](https://img.shields.io/badge/C%C3%B3digo%20-EN%20DESARROLLO-yellow) ![Badge en Desarollo](https://img.shields.io/badge/PassWord--Generator-v1.0-blue)
+
+
+>> Password generator, es como bien dice su nombre un generador de contraseñas, 
+las mismas son de alto nivel de seguridad.
+
+## Sistemas operativos en los que se puede ejecutar:
+#### _Windows, Linux, IOS_ 
+
+# Tecnologias usadas
+
+- Tkinter
+- Python
+
+ ## Módulos
+- Importar Tkinter para tener una consola gráfica
+- Importar random 
+
+
+ Password Generator  es de código abierto con un [public repository][dill]
+ on GitHub.
+
+## Instalación
+
+Password Generator require [Python](https://www.python.org/) v3.10.0+ corre.
+
+Instale las dependencias.
+
+[Tkinter](https://https://docs.python.org/es/3/library/tkinter.html)
+[Módulo random](https://https://docs.python.org/es/3/library/random.html?highlight=random#module-random)
+
+
+### Funcionamiento del programa
+
+> Al ejecutar el programa automaticamente se verá reflejado en la Terminal las opciones para generar la contraseña según el nivel de seguridad deseado,("LOW","MIDDLE","HIGH") una vez escriba una de esas opciones el programa arrojará una contraseña según la opción elegida.
+Adjunto de imagenes :|
+![Captura de pantalla (7)](https://user-images.githubusercontent.com/118028611/204072113-af3d76be-7544-47dd-bcc7-52dbf25a18fd.png)
+
+|
+![Captura de pantalla (8)](https://user-images.githubusercontent.com/118028611/204072125-489d7cbd-dd4d-4322-9bd3-0fc1a4bc3393.png) |
+
+![Captura de pantalla (9)](https://user-images.githubusercontent.com/118028611/204072132-f7a171e3-fbad-4309-8535-d9c56df7b7e4.png)
